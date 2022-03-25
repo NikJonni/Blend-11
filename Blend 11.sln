@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blend 11", "Blend 11\Blend 11.csproj", "{89EC131C-E5C2-4453-A76D-38A5ECE6FC7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89EC131C-E5C2-4453-A76D-38A5ECE6FC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EC131C-E5C2-4453-A76D-38A5ECE6FC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EC131C-E5C2-4453-A76D-38A5ECE6FC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EC131C-E5C2-4453-A76D-38A5ECE6FC7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27C189E9-88FE-4376-8AB7-6426EAF167F4}
+	EndGlobalSection
+EndGlobal

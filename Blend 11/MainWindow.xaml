@@ -1,0 +1,25 @@
+﻿<Window x:Class="Blend_11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Blend_11"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Ellipse HorizontalAlignment="Left" Height="100" Margin="300,127,0,0" Stroke="Black" VerticalAlignment="Top" Width="100">
+            <Ellipse.Fill>
+                <RadialGradientBrush GradientOrigin="-0.021,0.859" RadiusX="1.125" RadiusY="1.125">
+                    <GradientStop Color="#FFC8DD30" Offset="0.336"/>
+                    <GradientStop Color="White" Offset="0.605"/>
+                </RadialGradientBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Path Data="M355.4,232.84 C333.25807,263.25181 316.24937,273.27454 341,319.24 361.82792,357.92043 372.47568,364.86675 355.4,415.24"  HorizontalAlignment="Left" Height="183" Margin="323,225,0,0" Stroke="Green" Stretch="Fill" VerticalAlignment="Top" Width="36" StrokeThickness="6"/>
+        <Path Data="M334.8,130.84 C324.04528,111.7205 310,95.980814 310,72.44 310,48.668496 304.78098,40.842717 341.2,35.64 358.98754,33.098922 384.00536,16.077541 389.2,52.44 392.56589,76.001264 379.76799,85.832063 376.4,106.04 375.86667,106.04 375.33333,106.04 374.8,106.04 371.80036,115.03893 367.56679,119.16423 365.2,129.24" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="102" Margin="310,29,0,0" Stroke="Black" Stretch="Fill" VerticalAlignment="Top" Width="81"/>
+        <Path Data="M394,152.44 C414.30453,135.002 424.4923,110.49642 445.2,93.24 463.77725,77.758955 482.21073,58.763256 504.4,106.84 516.59598,133.26461 518.10413,146.99661 472.4,166.04 447.45169,176.43513 424.69382,173.18712 398.8,178.84" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="104" Margin="394,76,0,0" Stroke="Black" Stretch="Fill" VerticalAlignment="Top" Width="119"/>
+        <Path Data="M367.6,223.64 C392.17409,240.95356 391.10491,259.29736 406.8,282.84 415.66413,296.1362 423.72826,297.25603 442.8,299.64 463.37083,302.21135 464.90704,308.56395 481.2,286.84 491.11252,273.62331 490.19577,264.87625 484.4,246.04 479.94193,231.55127 482.31058,224.91596 464.4,217.24 440.10036,206.82587 419.92148,204.88821 394,201.24" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="102" Margin="368,201,0,0" Stroke="Black" Stretch="Fill" VerticalAlignment="Top" Width="122"/>
+        <Path Data="M306.8,154.04 C294.88675,143.92759 288.72935,138.25632 282.8,122.84 280.41672,116.64348 279.89264,111.35212 276.4,105.24 272.62432,98.632559 266.21361,94.546805 258.8,90.84 241.95438,82.417189 229.92213,77.24 210,77.24 189.72821,77.24 186.98599,81.551283 174,100.44 165.5484,112.73324 162.74335,120.35502 174,137.24 185.82056,154.97084 198.60171,163.24068 219.6,171.64 250.33658,183.93463 272.86711,165.49403 303.6,166.84" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="100" Margin="167,77,0,0" Stroke="Black" Stretch="Fill" VerticalAlignment="Top" Width="141"/>
+        <Path Data="M307.6,198.04 C277.5883,203.78137 251.61967,198.04 221.2,198.04 206.13628,198.04 198.32623,196.91377 186,209.24 181.46061,213.77939 167.79482,236.67793 185.2,243.64 189.43005,269.02029 217.00185,289.03938 262,274.04 271.95229,270.72257 278.05791,268.66806 286.8,262.84 293.9699,258.06007 299.29721,255.24669 302.8,246.84 310.89418,227.41398 304.01936,230.07231 323.6,219.64" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="82" Margin="177,198,0,0" Stroke="Black" Stretch="Fill" VerticalAlignment="Top" Width="148"/>
+    </Grid>
+</Window>
